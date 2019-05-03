@@ -3,7 +3,10 @@
   background-size: cover;
 }
 .intro img{
-  margin-left: 482px;
+  margin-left: 490px;
+}
+.intro .mouse{
+  margin-left: 535px;
 }
 .intro h1{
   text-align: center;
@@ -23,4 +26,14 @@
   text-align: center;
   margin-left: -120px;
   font-size: small;
+}
+.services{
+  background-image: url('../assets/backgrounds/s_image.jpg');
+  background-size: cover;
+}
+.services h3{
+  color: white;
+}
+.services p{
+  color: white;
 }
