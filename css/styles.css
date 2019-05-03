@@ -44,19 +44,8 @@
 .row{
   margin-left: 150px;
 }
-.work1 img{
+.row .work img{
   width: 145px;
   margin-left: 10px;
-}
-.work2 img{
-  width: 145px;
-  margin-left: 10px;
-}
-.work3 img{
-  margin-left: 10px;
-  width: 145px;
-}
-.work4 img{
-  margin-left: 40px;
-  width: 145px;
+  margin-top: 10px;
 }
