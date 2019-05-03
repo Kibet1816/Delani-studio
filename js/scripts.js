@@ -1,0 +1,11 @@
+$(document).ready(function(){
+  $(".cardA").click(function(){
+    $("#card1").slideToggle();
+  });
+  $(".cardB").click(function(){
+    $("#card2").slideToggle();
+  });
+  $(".cardC").click(function(){
+    $("#card3").slideToggle();
+  });
+});

@@ -77,3 +77,15 @@ textarea{
 input{
   color: transparent;
 }
+#card1{
+  display: none;
+}
+#card2{
+  display: none;
+}
+#card3{
+  display: none;
+}
+.card title{
+  text-align: center;
+}
