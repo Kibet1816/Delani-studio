@@ -18,9 +18,10 @@
   text-align: center;
   margin-left: -50px;
 }
-.about h3{
+h3{
   text-align: center;
   margin-left: -130px;
+  color: white;
 }
 .about p{
   text-align: center;
@@ -31,8 +32,14 @@
   background-image: url('../assets/backgrounds/s_image.jpg');
   background-size: cover;
 }
-.services h3{
+.about .services h3{
   color: white;
+}
+.whatwedo h3{
+  color: black;
+}
+.about h3{
+  color: black;
 }
 .services p{
   color: white;
@@ -48,4 +55,7 @@
   width: 145px;
   margin-left: 10px;
   margin-top: 10px;
+}
+.contacts{
+  background-image: url('../assets/backgrounds/c_image.jpg');
 }
