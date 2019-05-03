@@ -65,3 +65,15 @@ h3{
 #email{
   margin-left: 120px;
 }
+textarea{
+  margin-left: 200px;
+}
+.social .row{
+  margin-left: 280px;
+}
+.social footer{
+  text-align: center;
+}
+input{
+  color: transparent;
+}
