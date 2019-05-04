@@ -8,4 +8,12 @@ $(document).ready(function(){
   $(".cardC").click(function(){
     $("#card3").slideToggle();
   });
+  $(".hover").mousemove(function(e){
+  	var hovertext= $(this).attr('hovertext');
+  	$("#hoverdiv").text(hovertext).show();
+  }).mouseout(function(){
+  	$("#hoverdiv").hide();
+  });
 });
+
+ 
