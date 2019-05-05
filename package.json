@@ -1,0 +1,23 @@
+{
+  "name": "delani-studio",
+  "version": "1.0.0",
+  "description": "simple newslaetter app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev":"nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kibet1816/Delani-studio.git"
+  },
+  "author": "Denis KIbet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kibet1816/Delani-studio/issues"
+  },
+  "homepage": "https://github.com/Kibet1816/Delani-studio#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
