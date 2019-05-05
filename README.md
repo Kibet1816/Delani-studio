@@ -6,11 +6,11 @@
 ## Project description:
 This is the landing page for delani stuio and shows the following:
 
--The logo of Delan studio,
--An about us section,
--A 'what we do' section,
--Portfolio section,
--Contact section.
+- The logo of Delan studio,
+- An about us section,
+- A 'what we do' section,
+- Portfolio section,
+- Contact section.
  
 ## Setup instructions
 - A web browser
@@ -18,11 +18,11 @@ This is the landing page for delani stuio and shows the following:
 ## BDD
 The webpage is required to do the following:
 
--Be able to scroll from the logo to the contacts section
--Provide a brief description of our projects upon clicking on the 'what we do icons'
--Show project names on hover above the portfolio image
--Pop-up an alert after submitting your contact info and message
--Track your feedback.
+- Be able to scroll from the logo to the contacts section
+- Provide a brief description of our projects upon clicking on the 'what we do icons'
+- Show project names on hover above the portfolio image
+- Pop-up an alert after submitting your contact info and message
+- Track your feedback.
 
 ## Technologies used
 The following languages have been used to write the webpage:
