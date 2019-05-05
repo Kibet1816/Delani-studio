@@ -4,9 +4,9 @@
 - [Denis Kibet](https://github.com/Kibet1816)
 
 ## Project description:
-This is the landing page for delani stuio and shows the following:
+This is the landing page for Delani studio and shows the following:
 
-- The logo of Delan studio,
+- The logo of Delani studio,
 - An about us section,
 - A 'what we do' section,
 - Portfolio section,
