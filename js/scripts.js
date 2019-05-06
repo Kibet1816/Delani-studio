@@ -14,7 +14,8 @@ $(document).ready(function(){
   }).mouseout(function(){
   	$("#hoverdiv").hide();
   });
-  $(".submit").click(function(){
+  $(".submit").click(function(a){
+    a.preventDefault();
     alert("We have received your message.Thank you");
   });
 });
