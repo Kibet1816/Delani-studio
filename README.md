@@ -14,6 +14,9 @@ This is the landing page for Delani studio and shows the following:
  
 ## Setup instructions
 - A web browser
+- Open a new folder in your computer using the terminal
+- Fork or download the repo
+- Extract the files into your new folder
 
 ## BDD
 The webpage is required to do the following:
